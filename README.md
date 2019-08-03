@@ -10,3 +10,11 @@
 4.图像特征转化
 
 注意图片存储路径不能含有中文
+
+作业2：
+暂缺
+
+作业3：
+1.assignment_3_Linear_Regression.py：线性回归
+2.assignment_3_Logistic_regression.py：逻辑回归
+3.assignment_3_Best_Angle_To_Pass_River.py：过河最长距离的问题
