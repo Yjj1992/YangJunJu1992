@@ -18,3 +18,7 @@
 1.assignment_3_Linear_Regression.py：线性回归
 2.assignment_3_Logistic_regression.py：逻辑回归
 3.assignment_3_Best_Angle_To_Pass_River.py：过河最长距离的问题
+
+作业4：
+1.kmens++编程
+2.ID3详细数学计算
